@@ -48,37 +48,11 @@ Esse projeto é parte da iniciativa para facilitar o atendimento técnico de cel
 ## 📩 Contato
 
 Dúvidas ou sugestões?  
-Entre em contato via [WhatsApp](https://wa.me/seunumeroaqui) ou abra uma *issue* aqui no GitHub.
+Entre em contato via [WhatsApp](21)99515-7878 ou abra uma *issue* aqui no GitHub.
 
 ---
 
-© 2025 AssistPro. Todos os direitos reservados.
-
-
-
-
-GranjaTech - Gestão de Granjas Avícolas
-Sistema web moderno para gestão de granjas de corte com React + .NET.
-
-🚀 Quick Start
-🐳 Docker (Recomendado)
-docker-compose up -d  # Inicia tudo (Frontend + Backend + PostgreSQL)
-
-# Acesse:
-# Frontend:  http://localhost:3000
-# Swagger:   http://localhost:5099/swagger
-💻 Desenvolvimento Local
-Pré-requisitos: .NET 8 SDK, Node.js 18+, PostgreSQL 12+
-
-# Backend
-cd GranjaTech.Api && dotnet run  # https://localhost:7135
-
-# Frontend  
-cd frontend && npm install && npm start  # http://localhost:3000
-⚡ Funcionalidades
-• Autenticação JWT com perfis (Admin/Produtor/Financeiro)
-• Gestão completa de granjas, lotes, usuários e estoque
-• Sensores IoT com leituras em tempo real
+©  tempo real
 • Relatórios exportáveis (Excel/PDF) e dashboards
 • Auditoria completa de ações do sistema
 
@@ -100,5 +74,5 @@ Equipe:
 Felipe Bianchini – Backend (.NET, PostgreSQL, API)
 Wendell Nascimento – Frontend (React, MUI, testes)
 Guilherme Oliveira – Banco de dados, auditoria, endpoints
-Adryan Thiago – Relatórios, dashboards, sensores
+Adryan Thiago – s
 
